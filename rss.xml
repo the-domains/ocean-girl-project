@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Ocean Girl Project Blog]]></title>
         <description><![CDATA[Ocean Girl Project Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ocean-girl-project/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 21:43:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 09 Jun 2016 21:43:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ocean-girl-project/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Crocheted Wearable Mermaid Tail Towel That Cleverly Transforms Into Its Own Transport Bag]]></title>
+            <description><![CDATA[<article><h1>A Crocheted Wearable Mermaid Tail Towel That Cleverly Transforms Into Its Own Transport Bag</h1><p>Canadian crocheter MJ of MJ's Off the Hook Designs has created an adorable line of wearable mermaid tail towels that very cleverly button up and neatly transform into their own carry bags, either as a backpack or a handled arm bag. The pattern for this unique towel is also available for purchase.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58a1f5940b226128ef7bb8e807c84d0b0f19e435.jpg"></article>]]></description>
+            <link>http://laughingsquid.com/a-crocheted-wearable-mermaid-tail-towel-that-cleverly-transforms-into-its-own-transport-bag/</link>
+            <guid isPermaLink="false">6527360e-e237-4151-adf4-03188614362a</guid>
+            <pubDate>Thu, 09 Jun 2016 21:43:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hope Spots: An Actionable Plan to Save the Ocean]]></title>
+            <description><![CDATA[<article><h1>Hope Spots: An Actionable Plan to Save the Ocean</h1><p>The immense problems facing the ocean often leave us feeling powerless. But what if there was a concrete, actionable strategy to nurse the ocean back to health? Dr. Sylvia Earle argues that there is.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca36de1360faba25a7473acf89513b5be1c1ac8a.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/brett-garling/hope-spots-an-actionable-_b_10344592.html</link>
+            <guid isPermaLink="false">70a159af-fd1f-4d83-a7f5-ae01fb9f4aec</guid>
+            <pubDate>Thu, 09 Jun 2016 21:43:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3045a699-f4eb-4dcc-9ae0-9195d33b4a4c.jpg">]]></description>
-            <link>undefinedeab0d0e2-8b3e-4877-b6fd-516184491b08/index.html</link>
+            <link>https://thegrid.ai/ocean-girl-project/eab0d0e2-8b3e-4877-b6fd-516184491b08/index.html</link>
             <guid isPermaLink="false">eab0d0e2-8b3e-4877-b6fd-516184491b08</guid>
             <pubDate>Thu, 09 Jun 2016 21:43:23 GMT</pubDate>
         </item>

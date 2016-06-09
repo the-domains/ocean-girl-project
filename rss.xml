@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ocean Girl Project Blog]]></title>
+        <description><![CDATA[Ocean Girl Project Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 09 Jun 2016 20:52:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Are the Health Benefits of Swimming in Sea Water?]]></title>
+            <description><![CDATA[<article><h1>What Are the Health Benefits of Swimming in Sea Water?</h1><p>A swim in the sea may improve your mood and health. Hippocrates first used the word "thalassotherapy" to describe the healing effects of seawater, according to Pacific Naturopathic. Ancient Greeks appreciated the health and beauty benefits of this mineral-rich water and bathed and soaked in seawater-filled pools and hot tubs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9229642ef6a76fcc0530b8fdc4c3efa10936e3e2.jpg"></article>]]></description>
+            <link>http://www.livestrong.com/article/400377-what-are-the-health-benefits-of-swimming-in-sea-water/</link>
+            <guid isPermaLink="false">8ad9bc1f-18b3-47ad-8a0f-b9eb873a7fd3</guid>
+            <pubDate>Thu, 09 Jun 2016 20:52:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

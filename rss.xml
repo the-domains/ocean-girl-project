@@ -4,8 +4,15 @@
         <description><![CDATA[Ocean Girl Project Blog]]></description>
         <link>https://thegrid.ai/ocean-girl-project/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 10 Jun 2016 04:43:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2016 05:26:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ocean-girl-project/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Love Letter to the Ocean for World Oceans Day]]></title>
+            <description><![CDATA[<article><h1>A Love Letter to the Ocean for World Oceans Day</h1><p>Surfers know one thing better than most: the ocean is to be feared, loved, respected, and cherished all at the same time. It's simultaneously a playground that could quite literally kill you. It's also a life source-home to millions of different species of organism.</p><img src="http://cdn1.theinertia.com/wp-content/uploads/2016/03/ocean.jpg"></article>]]></description>
+            <link>http://www.theinertia.com/environment/a-love-letter-to-the-ocean-for-world-oceans-day/</link>
+            <guid isPermaLink="false">7cb64128-8862-4f46-9c5c-63fc8dce2f74</guid>
+            <pubDate>Fri, 10 Jun 2016 05:25:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="Ocean reefs are dying and your sunblock is part of the problem" src="https://scontent.xx.fbcdn.net/v/t15.0-10/p128x128/12106684_1206606899352939_1028947140_n.jpg?oh=625640699a144946f17ea9f5814ada3f&oe=57D07D99">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.zentofitness.com/riding-waves-to-a-happier-healthier-life/</link>
             <guid isPermaLink="false">c92597db-f65c-4d88-b7f5-4b98833a00b6</guid>
             <pubDate>Thu, 09 Jun 2016 21:45:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scientists Froth on Surf Stoke]]></title>
-            <description><![CDATA[<article><h1>Scientists Froth on Surf Stoke</h1><p>We all surf for different reasons - for health and fitness, adventure, experience, or just to be out in the ocean. Whatever our motivation, every surfer knows the feeling of surf stoke.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4de5531d7a931d75eb268ad97fca42dae1b4c0bf.jpg"></article>]]></description>
-            <link>http://www.theinertia.com/environment/scientists-froth-on-surf-stoke/</link>
-            <guid isPermaLink="false">78d8e2df-140f-4fda-90f0-378b6b9b0336</guid>
-            <pubDate>Thu, 09 Jun 2016 21:43:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

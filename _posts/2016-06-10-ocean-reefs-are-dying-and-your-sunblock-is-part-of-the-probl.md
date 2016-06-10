@@ -4,19 +4,27 @@ author:
     url: 'http://facebook.com/204441986236107'
     avatar:
       src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/abf3c1918294bb59c83d52ec1ae06fa890fc5833.jpg
+      original: >-
         https://scontent.xx.fbcdn.net/v/t15.0-10/p100x100/12720198_1607718972872371_1670979725_n.jpg?oh=131e94a0a455690027ce49ef30f414d7&oe=57C92E51
       width: 100
       height: 100
       colors:
-        - - 162
-          - 161
-          - 154
-        - - 53
-          - 54
-          - 57
-        - - 100
-          - 92
-          - 80
+        - - 59
+          - 63
+          - 75
+        - - 175
+          - 167
+          - 156
+        - - 252
+          - 255
+          - 255
+        - - 119
+          - 102
+          - 84
+        - - 198
+          - 202
+          - 211
 related: []
 publisher:
   url: 'http://www.facebook.com'
@@ -39,11 +47,11 @@ inLanguage: en
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/RYOT/videos/1206592149354414/?pnref=story'
-datePublished: '2016-06-10T04:43:07.774Z'
-dateModified: '2016-06-10T04:43:03.695Z'
-starred: false
+datePublished: '2016-06-10T05:29:42.326Z'
+dateModified: '2016-06-10T05:29:42.268Z'
 sourcePath: >-
   _posts/2016-06-10-ocean-reefs-are-dying-and-your-sunblock-is-part-of-the-probl.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

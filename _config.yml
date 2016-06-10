@@ -1,19 +1,19 @@
-typography_spectrum: 0.33570677042007446
+typography_spectrum: 0.624054386978969
 color:
-  brandStrength: 0.7918962927069515
-  lightness: 0.7856835077982396
-  saturation: 0.9389923037961125
-  rhythmicContrast: 0.027397506404668093
+  brandStrength: 0.8837673396337777
+  lightness: 0.33825450646691024
+  saturation: 0.7387768994085491
+  rhythmicContrast: 0.10769737767986953
   brandColors:
-    - '#04BFBF'
-    - '#CAFCD8'
-    - '#F7E967'
-    - '#A9CF54'
-    - '#588F27'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eefaf69-e747-4075-947a-05fffce922ee.jpg
-layout_spectrum: 0.8746149106882513
+layout_spectrum: 0.6940963098313659
 author:
   name: Colleen Kudo
   email: colleen@oceangirlproject.com

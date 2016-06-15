@@ -1,15 +1,15 @@
 typography_spectrum: 0.624054386978969
 color:
-  brandStrength: 0.8837673396337777
-  lightness: 0.33825450646691024
-  saturation: 0.7387768994085491
-  rhythmicContrast: 0.10769737767986953
+  brandStrength: 0.6425238414667547
+  lightness: 0.8473719717003405
+  saturation: 0.19175225868821144
+  rhythmicContrast: 0.34036546503193676
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eefaf69-e747-4075-947a-05fffce922ee.jpg

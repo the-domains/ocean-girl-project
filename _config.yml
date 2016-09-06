@@ -19,3 +19,7 @@ author:
   email: colleen@oceangirlproject.com
   url: www.oceangirlproject.com
 name: Ocean Girl Project Blog
+navigation:
+  - name: About
+    url: www.oceangirlproject.com
+    type: external
